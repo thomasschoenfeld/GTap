@@ -1,7 +1,7 @@
 # GTap
 Toolhead for Voron TAP and Goliath hotend.
 
-This custom toolhead is designed and associated parts are designed to fit Voron Tap. It uses the Goliath hotend. It also uses "poor man's" umbilical cord. The toolhead is one solid piece, making it more ridged.
+This custom toolhead is designed and associated parts are designed to fit Voron Tap. It uses the Goliath hotend. It also uses "poor man's" umbilical cord. The toolhead is one solid piece, making it more ridged. It also uses CPAP and a custom duct. 
 
 All extruders, that have the same hole layout as the hextrudort, can most likely be used. For example Bondtech LGX lite, which will only make use of the front 2 holes, can also be used. 
 
